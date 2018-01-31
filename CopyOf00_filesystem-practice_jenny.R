@@ -3,7 +3,6 @@
 #' ---
  
 
-
 ## First attempt: Just get it to work ----
 
 list.files("C:/Users/ljarosek/Desktop/day1_s1_explore-libraries")
