@@ -1,7 +1,7 @@
 #' ---
 #' output: github_document
 #' ---
-
+ 
 
 
 ## First attempt: Just get it to work ----
